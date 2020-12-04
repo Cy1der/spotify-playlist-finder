@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Cy1der",
+  "license": "MIT",
+  "dependencies": {
+    "@keyv/sqlite": "^2.0.2",
+    "keyv": "^4.0.3",
+    "prompt-sync": "^4.2.0",
+    "spotify-web-api-node": "^5.0.0"
+  }
+}
